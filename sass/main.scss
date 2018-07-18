@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
+
+// base
+@import "base/global";
+
+// vendors
+@import "vendor/bootstrap/bootstrap";
+@import "vendor/fontawesome/font-awesome";
+
+// components
+@import "components/form";
+@import "components/modals";
+
+// layout
+@import "layout/header";
+@import "layout/content";
+@import "layout/footer";
